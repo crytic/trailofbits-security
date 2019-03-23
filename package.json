@@ -1,0 +1,22 @@
+{
+    "name": "trailofbits-truffle-security",
+    "version": "0.0.1",
+    "description": "Trail of Bits security tools for Truffle",
+    "main": "truffle.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "lint:sol": "node_modules/.bin/solium -d contracts/",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Trail of Bits",
+    "license": "MIT",
+    "devDependencies": {
+        "ethlint": "1.2.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crytic/trailofbits-security.git"
+    }
+}
