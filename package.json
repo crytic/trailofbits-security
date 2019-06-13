@@ -13,7 +13,7 @@
     "author": "Trail of Bits",
     "license": "MIT",
     "devDependencies": {
-        "ethlint": "1.2.3"
+        "ethlint": "^1.2.4"
     },
     "repository": {
         "type": "git",
