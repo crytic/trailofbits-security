@@ -7,7 +7,7 @@
         "Compile": "truffle compile",
         "Migrate": "truffle migrate",
         "Test contracts": "truffle test",
-        "Lint the Solidity Contracts": "npm run lint:sol"
+        "Lint the Solidity Contracts": "npm run lint:sol",
         "Run the Slither Static Anlyzer": "truffle compile && slither ."
     },
     "hooks": {
